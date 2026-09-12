@@ -1,5 +1,7 @@
 # VLSI-Projects
 
+These projects are done by me in VLSI Design course.
+
 CMOS Inverter – delay, static power, dynamic power, NML & NMH for different voltage, width, length, process corners, and temperature. 
 
 CMOS Inverter – VTCs for different \(I_{on,pMOS}/I_{on,nMOS}\) ratios with NML, NMH, delay, rise time, fall time, static power, and dynamic energy.
