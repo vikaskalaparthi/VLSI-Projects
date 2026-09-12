@@ -1,6 +1,6 @@
 # VLSI-Projects
 
-These projects are done by me in VLSI Design course.
+These projects were done by me in the VLSI Design course.
 
 CMOS Inverter – delay, static power, dynamic power, NML & NMH for different voltage, width, length, process corners, and temperature. 
 
